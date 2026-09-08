@@ -1,12 +1,12 @@
 # 🚀 K6 Performance Testing with JavaScript
 
-**Performance Testing Framework | Developed using K6, TypeScript & Visual Studio Code**
+**Performance Testing Framework | Developed using K6, JavaScript & Visual Studio Code**
 
 ---
 
 ## 📘 Overview
 
-This repository contains a hands-on **Performance Testing project** developed using **K6 and TypeScript**. It demonstrates how to design, script, execute, and analyze performance tests by simulating different levels of application traffic and user behavior.
+This repository contains a hands-on **Performance Testing project** developed using **K6 and JavaScript**. It demonstrates how to design, script, execute, and analyze performance tests by simulating different levels of application traffic and user behavior.
 
 The project focuses on understanding and implementing key performance testing concepts using K6, including **Virtual Users (VUs), checks, thresholds, ramp-up, ramp-down, user groups, scenarios, and traffic distribution**.
 
