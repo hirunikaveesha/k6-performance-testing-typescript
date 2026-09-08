@@ -1,6 +1,6 @@
 # 🚀 K6 Performance Testing with JavaScript
 
-**Performance Testing Framework | Developed using K6, TypeScript & Visual Studio Code**
+**Performance Testing Framework | Developed using K6, JavaScript & Visual Studio Code**
 
 ---
 
